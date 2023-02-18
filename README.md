@@ -20,6 +20,7 @@ MathTutor.cpp - to implement a math tutor for Second Grade students in an elemen
 
 
 Compile the source code by typing the following at the prompt $:
-$ g++ MathOperations.cpp MathReport.cpp MathTutor.cpp -o ElementarySchoolMathTutor 
+
+$ g++ MathOperations.cpp MathReport.cpp MathTutor.cpp -o ElementarySchoolMathTutor
 
 Code is available upon request
